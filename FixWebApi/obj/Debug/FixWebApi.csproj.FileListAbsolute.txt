@@ -1,0 +1,1982 @@
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\FixWebApi.dll.config
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\FixWebApi.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\FixWebApi.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csc.exe
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csc.exe.config
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csc.rsp
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csi.exe
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csi.exe.config
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\csi.rsp
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.AppContext.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Console.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Claims.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\vbc.exe
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\vbc.exe.config
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\vbc.rsp
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Antlr3.Runtime.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Newtonsoft.Json.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Http.Formatting.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Helpers.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.WebHost.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Mvc.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Optimization.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Razor.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\WebGrease.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Newtonsoft.Json.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Http.Formatting.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Helpers.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.WebHost.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Mvc.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Optimization.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Razor.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Antlr3.Runtime.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Owin.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Swashbuckle.Core.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\WebActivatorEx.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Options.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Cors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Buffers.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ComponentModel.Annotations.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Memory.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Numerics.Vectors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Text.Encodings.Web.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Cors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.Cors.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.Owin.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Options.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Cors.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Buffers.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Memory.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Numerics.Vectors.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Text.Encodings.Web.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.Cors.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Web.Http.Owin.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\EntityFramework.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.Immutable.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\EntityFramework.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.Immutable.xml
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\netstandard.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.AppContext.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.Concurrent.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.NonGeneric.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Collections.Specialized.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ComponentModel.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ComponentModel.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Console.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Data.Common.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.Contracts.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.Debug.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.Process.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.Tools.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Diagnostics.Tracing.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Drawing.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Dynamic.Runtime.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Globalization.Calendars.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Globalization.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Globalization.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.Compression.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.FileSystem.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.IsolatedStorage.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.Pipes.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Linq.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Linq.Expressions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Linq.Parallel.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Linq.Queryable.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Http.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.NameResolution.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.NetworkInformation.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Ping.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Requests.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Security.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.Sockets.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.WebSockets.Client.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Net.WebSockets.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ObjectModel.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Reflection.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Reflection.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Reflection.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Resources.Reader.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Resources.ResourceManager.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Resources.Writer.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Handles.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.InteropServices.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Numerics.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Claims.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.Principal.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Security.SecureString.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Text.Encoding.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Text.RegularExpressions.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Overlapped.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Tasks.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Thread.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.ThreadPool.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Threading.Timer.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.ValueTuple.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.ReaderWriter.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.XDocument.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.XmlDocument.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.XmlSerializer.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.XPath.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.csproj.AssemblyReference.cache
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init4.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init5.resources
+D:\ASP.NET-Learning\FixWebApi\FixWebApi\obj\Debug\FixWebApi.Migrations.init6.resources
+E:\FixWebApi2022\FixWebApi\bin\FixWebApi.dll.config
+E:\FixWebApi2022\FixWebApi\bin\FixWebApi.dll
+E:\FixWebApi2022\FixWebApi\bin\FixWebApi.pdb
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe.config
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csc.rsp
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe.config
+E:\FixWebApi2022\FixWebApi\bin\roslyn\csi.rsp
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.AppContext.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Console.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Compression.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Claims.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.ValueTuple.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe
+E:\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe.config
+E:\FixWebApi2022\FixWebApi\bin\roslyn\vbc.rsp
+E:\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe
+E:\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\netstandard.dll
+E:\FixWebApi2022\FixWebApi\bin\System.AppContext.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.Concurrent.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.NonGeneric.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.Specialized.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ComponentModel.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Console.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Data.Common.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Contracts.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Debug.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Process.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tools.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tracing.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Drawing.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Dynamic.Runtime.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Globalization.Calendars.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Globalization.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Globalization.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.Compression.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.IsolatedStorage.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.Pipes.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Linq.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Linq.Expressions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Linq.Parallel.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Linq.Queryable.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Http.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.NameResolution.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.NetworkInformation.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Ping.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Requests.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Security.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Sockets.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.Client.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ObjectModel.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Reflection.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Reflection.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Reflection.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Resources.Reader.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Resources.ResourceManager.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Resources.Writer.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Handles.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Numerics.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Claims.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.Principal.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Security.SecureString.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Text.RegularExpressions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Overlapped.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Thread.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.ThreadPool.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Timer.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ValueTuple.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.ReaderWriter.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.XDocument.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.XmlDocument.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.XmlSerializer.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+E:\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.dll
+E:\FixWebApi2022\FixWebApi\bin\EntityFramework.dll
+E:\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.dll
+E:\FixWebApi2022\FixWebApi\bin\JWT.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.dll
+E:\FixWebApi2022\FixWebApi\bin\Owin.dll
+E:\FixWebApi2022\FixWebApi\bin\Quartz.dll
+E:\FixWebApi2022\FixWebApi\bin\Swashbuckle.Core.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Buffers.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.dll
+E:\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Annotations.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+E:\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Memory.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Cors.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Razor.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.dll
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.dll
+E:\FixWebApi2022\FixWebApi\bin\WebActivatorEx.dll
+E:\FixWebApi2022\FixWebApi\bin\WebGrease.dll
+E:\FixWebApi2022\FixWebApi\bin\EntityFramework.xml
+E:\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.xml
+E:\FixWebApi2022\FixWebApi\bin\JWT.pdb
+E:\FixWebApi2022\FixWebApi\bin\JWT.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FixWebApi2022\FixWebApi\bin\Quartz.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Buffers.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+E:\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Memory.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.xml
+E:\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.Razor.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.xml
+E:\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.pdb
+E:\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CopyComplete
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.dll
+E:\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\FixWebApi.dll.config
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\FixWebApi.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\FixWebApi.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe.config
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csc.rsp
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe.config
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\csi.rsp
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.AppContext.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Console.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe.config
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\vbc.rsp
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\netstandard.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.AppContext.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.Concurrent.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.NonGeneric.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.Specialized.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ComponentModel.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Console.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Data.Common.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Contracts.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Debug.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Process.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tools.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tracing.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Drawing.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Dynamic.Runtime.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Globalization.Calendars.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Globalization.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Globalization.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.Compression.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.IsolatedStorage.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.Pipes.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Linq.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Linq.Expressions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Linq.Parallel.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Linq.Queryable.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Http.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.NameResolution.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.NetworkInformation.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Ping.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Requests.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Security.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Sockets.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.Client.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ObjectModel.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Reflection.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Reflection.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Reflection.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Resources.Reader.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Resources.ResourceManager.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Resources.Writer.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Handles.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Numerics.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Claims.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.Principal.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Security.SecureString.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Text.RegularExpressions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Overlapped.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Thread.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.ThreadPool.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Timer.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.ReaderWriter.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.XDocument.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.XmlDocument.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.XmlSerializer.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\AutoMapper.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\EntityFramework.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\JWT.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Owin.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Quartz.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Swashbuckle.Core.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Buffers.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Annotations.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Memory.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ValueTuple.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Cors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Razor.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\WebActivatorEx.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\WebGrease.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\AutoMapper.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\AutoMapper.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\EntityFramework.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\JWT.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\JWT.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Quartz.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Buffers.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Memory.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.ValueTuple.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.Razor.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init4.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init5.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init6.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init7.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init8.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinosettings.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.banner.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinogames.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinoimagepath.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.tablegames.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.APiUrls.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.videourl.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.eventIdinTablegames.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.eventidchangestomarketid.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.logomodel.resources
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CopyComplete
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.dll
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\Akhil Projects\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.apiurltypeinmarket.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\FixWebApi.dll.config
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\FixWebApi.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\FixWebApi.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csc.exe.config
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csc.rsp
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csi.exe.config
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\csi.rsp
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.AppContext.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Console.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\vbc.exe.config
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\vbc.rsp
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\netstandard.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.AppContext.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.Concurrent.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.NonGeneric.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.Specialized.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ComponentModel.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Console.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Data.Common.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Contracts.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Debug.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Process.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tools.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.Tracing.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Drawing.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Dynamic.Runtime.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Globalization.Calendars.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Globalization.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Globalization.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.Compression.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.IsolatedStorage.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.Pipes.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Linq.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Linq.Expressions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Linq.Parallel.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Linq.Queryable.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Http.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.NameResolution.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.NetworkInformation.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Ping.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Requests.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Security.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Sockets.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.Client.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.WebSockets.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ObjectModel.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Reflection.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Reflection.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Reflection.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Resources.Reader.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Resources.ResourceManager.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Resources.Writer.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Handles.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Numerics.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Claims.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.Principal.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Security.SecureString.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Text.RegularExpressions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Overlapped.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Thread.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.ThreadPool.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Timer.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.ReaderWriter.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.XDocument.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.XmlDocument.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.XmlSerializer.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\AutoMapper.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\EntityFramework.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\JWT.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Owin.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Quartz.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Swashbuckle.Core.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Buffers.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ComponentModel.Annotations.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Memory.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ValueTuple.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Cors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Razor.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\WebActivatorEx.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\WebGrease.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\AutoMapper.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\AutoMapper.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\EntityFramework.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\EntityFramework.SqlServer.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\JWT.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\JWT.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Options.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Cors.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Quartz.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Buffers.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Collections.Immutable.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Memory.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Net.Http.Formatting.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Numerics.Vectors.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Text.Encodings.Web.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.ValueTuple.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.Cors.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.Owin.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Newtonsoft.Json.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Helpers.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Http.WebHost.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Mvc.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Optimization.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.Razor.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Antlr3.Runtime.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init4.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init5.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init6.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init7.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.init8.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinosettings.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.banner.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinogames.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.casinoimagepath.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.tablegames.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.APiUrls.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.videourl.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.eventIdinTablegames.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.eventidchangestomarketid.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.logomodel.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.apiurltypeinmarket.resources
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.csproj.CopyComplete
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.dll
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\Live365Day\FixWebApi2022\FixWebApi\obj\Debug\FixWebApi.Migrations.logintoken.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\FixWebApi.dll.config
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\FixWebApi.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\FixWebApi.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csc.exe
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csc.exe.config
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csc.rsp
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csi.exe
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csi.exe.config
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\csi.rsp
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.AppContext.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Console.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\vbc.exe
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\vbc.exe.config
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\vbc.rsp
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\netstandard.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.AppContext.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.Concurrent.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.NonGeneric.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.Specialized.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ComponentModel.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ComponentModel.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Console.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Data.Common.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Contracts.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Debug.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Process.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Tools.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Tracing.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Drawing.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Dynamic.Runtime.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Globalization.Calendars.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Globalization.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Globalization.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.Compression.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.IsolatedStorage.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.Pipes.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Linq.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Linq.Expressions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Linq.Parallel.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Linq.Queryable.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Http.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.NameResolution.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.NetworkInformation.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Ping.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Requests.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Security.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Sockets.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.WebSockets.Client.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.WebSockets.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ObjectModel.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Reflection.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Reflection.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Reflection.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Resources.Reader.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Resources.ResourceManager.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Resources.Writer.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Handles.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.InteropServices.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Numerics.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Claims.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.Principal.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Security.SecureString.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Text.Encoding.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Text.RegularExpressions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Overlapped.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Thread.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.ThreadPool.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Timer.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.ReaderWriter.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.XDocument.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.XmlDocument.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.XmlSerializer.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.XPath.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Antlr3.Runtime.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\AutoMapper.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\EntityFramework.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\EntityFramework.SqlServer.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\JWT.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Options.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Cors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Newtonsoft.Json.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Owin.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Quartz.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Swashbuckle.Core.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Buffers.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.Immutable.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ComponentModel.Annotations.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Memory.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Http.Formatting.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Numerics.Vectors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Text.Encodings.Web.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ValueTuple.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Cors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Helpers.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.Cors.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.Owin.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.WebHost.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Mvc.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Optimization.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Razor.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\WebActivatorEx.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\WebGrease.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\AutoMapper.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\AutoMapper.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\EntityFramework.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\EntityFramework.SqlServer.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\JWT.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\JWT.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Options.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Cors.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Quartz.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Buffers.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Collections.Immutable.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Memory.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Net.Http.Formatting.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Numerics.Vectors.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Text.Encodings.Web.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.ValueTuple.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.Cors.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.Owin.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Newtonsoft.Json.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Helpers.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Http.WebHost.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Mvc.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Optimization.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.Razor.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Antlr3.Runtime.pdb
+D:\Live365Day\Live365WebAPI\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init4.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init5.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init6.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init7.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init8.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinosettings.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.banner.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinogames.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinoimagepath.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.tablegames.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.APiUrls.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.videourl.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.eventIdinTablegames.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.eventidchangestomarketid.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.logomodel.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.apiurltypeinmarket.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.logintoken.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.addjwtsignup.resources
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.CopyComplete
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.dll
+D:\Live365Day\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\FixWebApi.dll.config
+D:\Live365\Live365WebAPI\FixWebApi\bin\FixWebApi.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\FixWebApi.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csc.exe
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csc.exe.config
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csc.rsp
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csi.exe
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csi.exe.config
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\csi.rsp
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.AppContext.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Console.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\vbc.exe
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\vbc.exe.config
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\vbc.rsp
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Live365\Live365WebAPI\FixWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Win32.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\netstandard.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.AppContext.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.Concurrent.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.NonGeneric.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.Specialized.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ComponentModel.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ComponentModel.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ComponentModel.TypeConverter.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Console.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Data.Common.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Contracts.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Debug.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Process.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.StackTrace.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Tools.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.TraceSource.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.Tracing.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Drawing.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Dynamic.Runtime.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Globalization.Calendars.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Globalization.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Globalization.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.Compression.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.Compression.ZipFile.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.FileSystem.Watcher.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.IsolatedStorage.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.MemoryMappedFiles.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.Pipes.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Linq.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Linq.Expressions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Linq.Parallel.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Linq.Queryable.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Http.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.NameResolution.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.NetworkInformation.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Ping.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Requests.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Security.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Sockets.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.WebHeaderCollection.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.WebSockets.Client.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.WebSockets.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ObjectModel.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Reflection.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Reflection.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Reflection.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Resources.Reader.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Resources.ResourceManager.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Resources.Writer.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Handles.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.InteropServices.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Numerics.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Json.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.Serialization.Xml.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Claims.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Csp.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.Principal.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Security.SecureString.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Text.Encoding.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Text.Encoding.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Text.RegularExpressions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Overlapped.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Parallel.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Thread.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.ThreadPool.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Timer.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.ReaderWriter.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.XDocument.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.XmlDocument.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.XmlSerializer.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.XPath.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Xml.XPath.XDocument.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Antlr3.Runtime.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\AutoMapper.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\EntityFramework.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\EntityFramework.SqlServer.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\JWT.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Cors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Options.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Cors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Newtonsoft.Json.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Owin.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Quartz.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\Swashbuckle.Core.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Buffers.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.Immutable.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ComponentModel.Annotations.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Memory.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Http.Formatting.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Numerics.Vectors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Text.Encodings.Web.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ValueTuple.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Cors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Helpers.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.Cors.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.Owin.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.WebHost.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Mvc.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Optimization.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Razor.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\WebActivatorEx.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\WebGrease.dll
+D:\Live365\Live365WebAPI\FixWebApi\bin\AutoMapper.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\AutoMapper.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\EntityFramework.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\EntityFramework.SqlServer.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\JWT.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\JWT.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Cors.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Options.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Cors.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Quartz.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Buffers.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Collections.Immutable.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Memory.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Net.Http.Formatting.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Numerics.Vectors.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Text.Encodings.Web.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Threading.Tasks.Extensions.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.ValueTuple.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.Cors.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.Owin.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Newtonsoft.Json.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Helpers.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Http.WebHost.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Mvc.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Optimization.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.Razor.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Live365\Live365WebAPI\FixWebApi\bin\Antlr3.Runtime.pdb
+D:\Live365\Live365WebAPI\FixWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.AssemblyReference.cache
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init2.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init1.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init3.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init4.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init5.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init6.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init7.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init8.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinosettings.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.banner.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinogames.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.casinoimagepath.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.tablegames.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.APiUrls.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.videourl.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.eventIdinTablegames.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.eventidchangestomarketid.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.logomodel.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.apiurltypeinmarket.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.logintoken.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.addjwtsignup.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.GenerateResource.cache
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.CoreCompileInputs.cache
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.csproj.CopyComplete
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.dll
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.pdb
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.roles.resources
+D:\Live365\Live365WebAPI\FixWebApi\obj\Debug\FixWebApi.Migrations.init21.resources
