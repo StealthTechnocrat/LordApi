@@ -60,7 +60,41 @@ namespace FixWebApi.Controllers
             return Ok(responseDTO);
         }
 
+        [HttpGet]
+        [Route("UsersDetails")]
+        public async Task<IHttpActionResult> UsersDetails()
+        {
+            try
+            {
+                int userid = Convert.ToInt32(run_time.RunTimeUserId());
+                var signUpModel = await db.SignUp.AsNoTracking().Where(x => x.id == userid).Select(x => new { x.UserId, x.Balance }).ToListAsync();
+                if (signUpModel != null)
+                {
+                    var newsinfo = await db.News.AsNoTracking().ToListAsync();
+                    var liab = await db.Exposure.AsNoTracking().Where(x => x.UserId == userid).Select(x => x.Exposure).FirstOrDefaultAsync();
+                    var userdetails = new
+                    {
+                        signupdetails = signUpModel,
+                        newsdetails = newsinfo,
+                        totalliab = liab
+                    };
+                    responseDTO.Result = userdetails;
+                    responseDTO.Status = true;
+                }
+                else
+                {
+                    responseDTO.Status = false;
+                    responseDTO.Result = " User Not Found ";
+                }
 
+            }
+            catch (Exception ex)
+            {
+                responseDTO.Status = false;
+                responseDTO.Result = ex.Message;
+            }
+            return Ok(responseDTO);
+        }
         // Post: api/SignUpModels/Login
         [HttpPost]
         [Route("Valid_Login")]
@@ -1285,8 +1319,41 @@ namespace FixWebApi.Controllers
             return Ok(responseDTO);
         }
 
-        
-
+        [HttpGet]
+        [Route("changePassword")]
+        public async Task<IHttpActionResult> changePassword(string oldPwd, string newPwd)
+        {
+            try
+            {
+                int id = Convert.ToInt32(run_time.RunTimeUserId());
+                var getUser = await db.SignUp.Where(x => x.id == id).FirstOrDefaultAsync();
+                if (getUser.Password == oldPwd)
+                {
+                    if (getUser.Password == newPwd)
+                    {
+                        responseDTO.Status = false;
+                        responseDTO.Result = "Please Enter New Password";
+                    }
+                    else
+                    {
+                        getUser.Password = newPwd;
+                        responseDTO.Status = true;
+                        responseDTO.Result = "Password Change Successfully";
+                    }
+                }
+                else
+                {
+                    responseDTO.Status = false;
+                    responseDTO.Result = "Incorrrect Current Password";
+                }
+            }
+            catch (Exception ex)
+            {
+                responseDTO.Status = false;
+                responseDTO.Result = ex.Message;
+            }
+            return Ok(responseDTO);
+        }
 
         [HttpGet]
         [Route("GetUserDetails")]
