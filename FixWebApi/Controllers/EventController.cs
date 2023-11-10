@@ -197,6 +197,7 @@ namespace FixWebApi.Controllers
             }
             else
             {
+                eventModel.EventTime = eventModel.EventTime.AddMinutes(330);
                 EventModel checkEventExistance = await eventModelExists(eventModel.EventId);
                 if (checkEventExistance != null)
                 {
@@ -1035,6 +1036,7 @@ namespace FixWebApi.Controllers
         //Get: api/GetEventDetail
         [HttpGet]
         [Route("GetEventDetail")]
+        [AllowAnonymous]
         public async Task<IHttpActionResult> getEventDetail(string eventId, string type)
         {
             try
