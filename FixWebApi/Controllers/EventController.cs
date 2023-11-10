@@ -107,7 +107,7 @@ namespace FixWebApi.Controllers
                     t.Back1,
                     t.Back3,
                     t.EventTime
-                }).Skip(0).Take(8).ToListAsync();
+                }).OrderBy(x => x.EventTime).Skip(0).Take(8).ToListAsync();
                 if (eventList != null)
                 {
                     responseDTO.Status = true;
@@ -146,7 +146,7 @@ namespace FixWebApi.Controllers
                     t.Back1,
                     t.Back3,
                     t.EventTime,
-                }).Skip(0).Take(8).ToListAsync();
+                }).OrderBy(x => x.EventTime).Skip(0).Take(8).ToListAsync();
                 if (eventList != null)
                 {
                     responseDTO.Status = true;
@@ -174,8 +174,39 @@ namespace FixWebApi.Controllers
         {
             try
             {
-                
-             
+                var inplayData = await (from o in db.Event
+                                        where !o.deleted
+                                        select new
+                                        {
+                                            TopEvents = db.Event.Where(x => x.SportsId == sportsId && !x.status && !x.deleted && x.EventTime < DateTime.Now).Select(t => new
+                                            {
+                                                t.SportsName,
+                                                t.SeriesName,
+                                                t.EventId,
+                                                t.SportsId,
+                                                t.Runner1,
+                                                t.Runner2,
+                                                t.Back1,
+                                                t.Back3,
+                                                t.EventTime,
+                                            }).OrderBy(x => x.EventTime).Skip(0).Take(10).ToList(),
+                                            CricketEventCount = db.Event.Where(x => x.SportsId == 4 && !x.deleted).Count(),
+                                            CricketInplayEventCount = db.Event.Where(x => x.SportsId == 4 && !x.deleted && x.EventTime < DateTime.Now).Count(),
+                                            TennisEventCount = db.Event.Where(x => x.SportsId == 2 && !x.deleted).Count(),
+                                            TennisInplayEventCount = db.Event.Where(x => x.SportsId == 2 && !x.deleted && x.EventTime < DateTime.Now).Count(),
+                                            FootballEventCount = db.Event.Where(x => x.SportsId == 1 && !x.deleted).Count(),
+                                            FootbalInplayEventCount = db.Event.Where(x => x.SportsId == 1 && !x.deleted && x.EventTime < DateTime.Now).Count(),
+                                        }).AsNoTracking().FirstOrDefaultAsync();
+                if (inplayData != null)
+                {
+                    responseDTO.Status = true;
+                    responseDTO.Result = inplayData;
+                }
+                else
+                {
+                    responseDTO.Status = false;
+                    responseDTO.Result = inplayData;
+                }
             }
             catch (Exception ex)
             {
@@ -188,13 +219,10 @@ namespace FixWebApi.Controllers
         [HttpGet]
         [Route("GetAllEventsBySportsId")]
         [AllowAnonymous]
-        public async Task<IHttpActionResult> getAllEventsBySportsId(int sportsId , string type)
+        public async Task<IHttpActionResult> getAllEventsBySportsId(int sportsId)
         {
             try
             {
-                switch (type)
-                {
-                    case "all":
                         var objData = await (from o in db.Event
                                              where !o.deleted
                                              select new
@@ -229,44 +257,6 @@ namespace FixWebApi.Controllers
                             responseDTO.Status = false;
                             responseDTO.Result = objData;
                         }
-                        break;
-                    case "inplay":
-                        var inplayData = await (from o in db.Event
-                                             where !o.deleted
-                                             select new
-                                             {
-                                                 TopEvents = db.Event.Where(x => x.SportsId == sportsId && !x.status && !x.deleted && x.EventTime < DateTime.Now).Select(t => new
-                                                 {
-                                                     t.SportsName,
-                                                     t.SeriesName,
-                                                     t.EventId,
-                                                     t.SportsId,
-                                                     t.Runner1,
-                                                     t.Runner2,
-                                                     t.Back1,
-                                                     t.Back3,
-                                                     t.EventTime,
-                                                 }).OrderBy(x => x.EventTime).Skip(0).Take(10).ToList(),
-                                                 CricketEventCount = db.Event.Where(x => x.SportsId == 4 && !x.deleted).Count(),
-                                                 CricketInplayEventCount = db.Event.Where(x => x.SportsId == 4 && !x.deleted && x.EventTime < DateTime.Now).Count(),
-                                                 TennisEventCount = db.Event.Where(x => x.SportsId == 2 && !x.deleted).Count(),
-                                                 TennisInplayEventCount = db.Event.Where(x => x.SportsId == 2 && !x.deleted && x.EventTime < DateTime.Now).Count(),
-                                                 FootballEventCount = db.Event.Where(x => x.SportsId == 1 && !x.deleted).Count(),
-                                                 FootbalInplayEventCount = db.Event.Where(x => x.SportsId == 1 && !x.deleted && x.EventTime < DateTime.Now).Count(),
-                                             }).AsNoTracking().FirstOrDefaultAsync();
-                        if (inplayData != null)
-                        {
-                            responseDTO.Status = true;
-                            responseDTO.Result = inplayData;
-                        }
-                        else
-                        {
-                            responseDTO.Status = false;
-                            responseDTO.Result = inplayData;
-                        }
-                        break;
-                }
-               
             }
             catch (Exception ex)
             {
@@ -356,7 +346,6 @@ namespace FixWebApi.Controllers
             }
             else
             {
-                eventModel.EventTime = eventModel.EventTime.AddMinutes(330);
                 EventModel checkEventExistance = await eventModelExists(eventModel.EventId);
                 if (checkEventExistance != null)
                 {
